@@ -1,0 +1,6 @@
+name=Rocket Bytes Minus
+author=PossiblyAxolotl
+description=Super stripped down open source version of Rocket Bytes
+bundleID=com.PossiblyAxolotl.RocketBytesMinus
+version=1.0.0
+buildNumber=10000
