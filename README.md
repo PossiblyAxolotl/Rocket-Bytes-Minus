@@ -12,4 +12,6 @@ it won't.
 
 also if you want watch the devlog on how I made my game https://youtu.be/VpttrgtQsmQ
 
+### while credit is not required in the license it would be nice if you credit this page, my youtube, or my twitter if you use this code
+
 bye!
